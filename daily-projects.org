@@ -1,0 +1,19 @@
+#+STARTUP: lognoteclock-out
+#+STARTUP: overview
+#+FILETAGS: project
+* 読書をする
+  - Note taken on [2019-12-22 日 15:58] \\
+    asa
+ - 素数夜曲でSchemeの勉強
+ - 古い服を捨てる
+ - Land of lispを読み進める〜2ページ
+ - 数学ガールを読みすすめる〜2ページ
+ - はじめてのLisp関数型プログラミングを読み進める〜2ページ
+ - オペアンプ回路を読み進める〜2ページ
+ - 電気回路演習を読み進める〜1ページ
+ - ストールマンのFree as in freedomを読み進める〜1ページ
+ - Kindleの本を10ページ読み進る
+* 自作キーボード制作
+* Pythonの勉強する〜テキスト処理
+* 製図の勉強をする
+*
